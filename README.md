@@ -62,5 +62,9 @@ You can use an [Unix Timestamp Converter](https://www.epochconverter.com/) for e
 
 - [Discord](https://discord.com/developers/docs/intro) for their docs and chat formatting examples
 
+# Contributing
+
+If you have ideas for a custom "about me" and want to share it, you're welcome
+
 # Contact
 Lulu 🍉#0001 on Discord.
