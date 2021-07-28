@@ -9,34 +9,14 @@ Discord About Me Customisation
 *italics* or _italics_
 ```
 
-### Underline italics
-```
-_*underline italics*_
-```
-
 ### Bold
 ```
 **bold**
 ```
 
-### Underline bold
-```
-_**underline bold**_
-````
-
 ### Bold Italics
 ```
 ***bold italics***
-```
-
-### underline bold italics 
-```
-_***underline bold italics***_
-```
-
-### Underline
-```
-__underline__
 ```
 
 ### Strikethrough
@@ -50,11 +30,11 @@ __underline__
 ## Emoji 
 
 - Unicode Characters
-  - `😂`
+  - `🍉`
 
 ## Timestamps
 
-You can use an [Unix Timestamp Converter](https://www.epochconverter.com/) for easy human readable date
+You can use an [Unix Timestamp Converter](https://www.epochconverter.com/) for easy human readable date conversion
 
 | Type | Structure | Example |
 | - | - | - |
