@@ -27,6 +27,11 @@ Discord About Me Customisation
 ### Code Blocks
 `This is a code block`
 
+### Spoiler
+```
+||spoiler||
+```
+
 ## Emoji 
 
 - Unicode Characters
