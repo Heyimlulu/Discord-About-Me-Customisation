@@ -11,7 +11,5 @@ If you have ideas for a custom "about me" and want to share it, just follow thes
 
 - Create a new directory in the template folder and add your files and images.
 
-- **No nudity or nsfw content.**
-
 # Contact
 Lulu 🍉#0001 on Discord.
