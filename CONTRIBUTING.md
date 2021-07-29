@@ -4,5 +4,3 @@
   - demo.png
 
 - Create a new directory in the template folder and add your files and images.
-
-- **No nudity or nsfw content.**
