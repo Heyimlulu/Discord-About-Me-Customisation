@@ -2,7 +2,7 @@
 
 ### Preview
 
-![](https://raw.githubusercontent.com/Heyimlulu/Discord-About-Me-Customisation/main/templates/example/demo.png)
+![](https://raw.githubusercontent.com/Heyimlulu/Discord-About-Me-Customisation/main/templates/flags/swiss/demo.png)
 
 ### Markdown
 
