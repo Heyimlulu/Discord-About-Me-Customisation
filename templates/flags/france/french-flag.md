@@ -1,6 +1,6 @@
 # French Flag
 
-### Markdown
+### Copy & Paste Markdown
 
 ```
 🟦🟦🟦⬜⬜⬜🟥🟥🟥
