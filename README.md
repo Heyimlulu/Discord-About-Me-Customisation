@@ -18,4 +18,4 @@ It feels empty here, we need contributors :) You can simply create pull requests
 - **No nudity or NSFW related content**
 
 # Contact
-Slimey#0667 on Discord.
+[Slimey#0667](https://discord.com/users/265896171384340480) on Discord.
