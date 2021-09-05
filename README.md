@@ -6,7 +6,7 @@ Discord About Me Customisation
 
 It feels empty here, we need contributors :) You can simply create pull requests.
 
-# Contributing
+# Contribution guidelines
 
 - Images must have descriptive file names in the following format:
   - Awesome_File_Name.png
