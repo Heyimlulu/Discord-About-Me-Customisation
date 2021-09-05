@@ -1,6 +1,10 @@
-# Contributing guidelines
+# Contribution guidelines
 
 - Images must have descriptive file names in the following format:
-  - demo.png
+  - Awesome_File_Name.png
 
-- Create a new directory in the template folder and add your files and images.
+- Add your new customisation to the folder that best describes the subject matter of the custom about me. If no existing folder applies create a new one.
+
+- All customisations added must not be a copy-paste of another contributor or feel free to open a pull request if you want to make editing
+
+- **No nudity or NSFW related content**
