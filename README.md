@@ -2,14 +2,20 @@
 
 Discord About Me Customisation
 
+# Important
+
+It feels empty here, we need contributors :) You can simply create pull requests.
+
 # Contributing
 
-If you have ideas for a custom "about me" and want to share it, just follow theses guidelines:
-
 - Images must have descriptive file names in the following format:
-  - demo.png
+  - Awesome_File_Name.png
 
-- Create a new directory in the template folder and add your files and images.
+- Add your new customisation to the folder that best describes the subject matter of the custom about me. If no existing folder applies create a new one.
+
+- All customisations added must not be a copy-paste of another contributor or feel free to open a pull request if you want to make editing
+
+- **No nudity or NSFW related content**
 
 # Contact
 Slimey#0667 on Discord.
