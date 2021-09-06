@@ -16,6 +16,3 @@ It feels empty here, we need contributors :) You can simply create pull requests
 - All customisations added must not be a copy-paste of another contributor or feel free to open a pull request if you want to make editing
 
 - **No nudity or NSFW related content**
-
-# Contact
-[Slimey#0667](https://discord.com/users/265896171384340480) on Discord.
