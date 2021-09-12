@@ -7,6 +7,11 @@
 *italics* or _italics_
 ```
 
+### Underline
+```
+__underline__
+```
+
 ### Bold
 ```
 **bold**
@@ -36,6 +41,7 @@
 
 - Unicode Characters
   - `🍉`
+- You can use [Smiley.cool](https://smiley.cool/emoji-list.php) or [Emojipedia](https://emojipedia.org/) for emojies
 
 ## Timestamps
 
