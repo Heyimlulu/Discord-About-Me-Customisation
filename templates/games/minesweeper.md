@@ -1,5 +1,9 @@
 # Minesweeper
 
+### Preview 
+
+<img width="50%" src="https://github.com/Heyimlulu/Discord-About-Me-Customisation/blob/main/templates/games/minesweeper.gif" alt />
+
 ### Copy & Paste Markdown
 
 You can use [Discord Minesweeper Generator](https://jozsefsallai.github.io/discord-minesweeper-generator/) for generating a new grid
