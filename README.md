@@ -4,7 +4,7 @@ Discord About Me Customisation
 
 # Important
 
-It feels empty here, we need contributors :) You can simply create pull requests.
+It feels empty here, we need contributors :) You can simply fork this project or create pull requests here.
 
 # Contribution guidelines
 
